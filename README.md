@@ -10,5 +10,7 @@ Este fue mi segundo proyecto, donde aprendí las bases de **HTML y CSS**. Desarr
 
 ### 📸 Capturas del proyecto:
 
-![Inicio del sitio](imagenes/inicio.png)
-![Sección sobre mí](imagenes/sobremi.png)
+![Inicio del sitio](873shots_so.png)
+![Sección sobre mí](361shots_so.png)
+
+[Mi proyecto](https://tienda-proyecto-2.netlify.app/)
