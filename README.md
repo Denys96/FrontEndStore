@@ -8,9 +8,15 @@ Este fue mi segundo proyecto, donde aprendí las bases de **HTML y CSS**. Desarr
 - Aplicación de estilos con CSS (colores, márgenes, tipografías)
 - Organización del contenido usando `flexbox`
 
+### 🌐 Enlace al proyecto:
+[Mi proyecto](https://tienda-proyecto-2.netlify.app/)
+
 ### 📸 Capturas del proyecto:
 
-![Inicio del sitio](873shots_so.png)
-![Sección sobre mí](361shots_so.png)
+<p align="center">
+  <img src="873shots_so.png" alt="Inicio del blog" width="300"/>
+  <img src="361shots_so.png" alt="Sección Sobre Nosotros" width="300"/>
+</p>
 
-[Mi proyecto](https://tienda-proyecto-2.netlify.app/)
+
+
